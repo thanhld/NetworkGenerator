@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SensorNet - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/SensorNet.res" /d "_DEBUG" /d "_AFXDLL" "E:\thanh\research\NetworkGenerator\SensorNet.rc"" 
+Creating temporary file "C:\Users\bmm\AppData\Local\Temp\RSPFC85.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SensorNet.pdb" /debug /machine:I386 /out:"Debug/SensorNet.exe" /pdbtype:sept 
+.\Debug\MainFrm.obj
+.\Debug\SensorNet.obj
+.\Debug\SensorNetDoc.obj
+.\Debug\SensorNetView.obj
+.\Debug\StdAfx.obj
+.\Debug\SensorNet.res
+]
+Creating command line "link.exe @C:\Users\bmm\AppData\Local\Temp\RSPFC85.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+SensorNet.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
